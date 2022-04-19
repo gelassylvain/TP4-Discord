@@ -32,7 +32,7 @@ async def on_message(message):
 
 
 """
-@client.event
+@client.evente
 async def on_message(message):
     print(message.content)"""
 
